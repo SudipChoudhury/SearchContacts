@@ -1612,13 +1612,11 @@
         
         
             
-            This sample demonstrates how to use the Contactables table to search for contacts.
-            \n\nQuery strings sent to the Contactables table will match both contact names and phone numbers,
-            reducing the number of queries your application needs to use when searching the contacts database!
+            This is a sample Contacts Search App created to Demo Sample Android App Testing in Cloud.
             
         
         
-    </string><string name="app_name">BasicContactables</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\SearchContacts\Application\src\main\res\values\strings.xml" qualifiers=""><string name="sample_action">Sample action</string><string name="search_title">Search Contacts</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\SearchContacts\Application\src\main\res\values\styles.xml" qualifiers=""><style name="Widget.SampleOutput">
+    </string><string name="app_name">SearchContacts</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\SearchContacts\Application\src\main\res\values\strings.xml" qualifiers=""><string name="sample_action">Sample action</string><string name="search_title">Search Contacts</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\SearchContacts\Application\src\main\res\values\styles.xml" qualifiers=""><style name="Widget.SampleOutput">
         <item name="android:padding">@dimen/margin_medium</item>
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
